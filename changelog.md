@@ -1,33 +1,17 @@
-#Change Log
+# Changelog
+All notable changes to this project will be documented in this file.
 
-Team membership:  AB (Captain) & CD (Mate)  
-Team conventions: Allman notation, markdown for changelog  
-Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
-## *Version x.x*
+## Team
+Captain - Gagan Bahugun
+First Mate - Wei Zhang
 
-Release Date: Jul 26, 2027
+## [0.1] - 2017-01-24
 
-## New Components
+### Added
+-Forked https://github.com/jedi-academy/starter-gallery
 
--   controllers
-
-    -   serbian (AB)
-    
-## Updated Components
-
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
-
+### Changed
+- Updated changelog to follow keepachangelog conventions and added team members and roles
 
