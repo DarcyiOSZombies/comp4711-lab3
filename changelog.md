@@ -1,33 +1,48 @@
-#Change Log
+# Changelog
+All notable changes to this project will be documented in this file.
 
-Team membership:  AB (Captain) & CD (Mate)  
-Team conventions: Allman notation, markdown for changelog  
-Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
-## *Version x.x*
+## Team
+- Captain - Gagan Bahugun
+- First Mate - Wei Zhang
 
-Release Date: Jul 26, 2027
+## [0.4] - 2018-01-26
+### Added
+- Images model
+- cell view
 
-## New Components
+### Changed
+- gitignore
+- autoload
+- gallery
+- welcome
 
--   controllers
+### Fixed
+- Changelog dates
 
-    -   serbian (AB)
-    
-## Updated Components
+## [0.3] - 2018-01-25
+### Added
+- template.php
 
--   controllers
+### Changed
+- Updated welcome.php, about.php, and gallery.php by removing everything except content
+- Updated Welcome.php controller
 
-    -   german (CD)
-    -   hindi (CD)
+## [0.2] - 2018-01-24
+### Added
+- CI Trivial Components
 
--   models
+### Changed
+- Updated .gitignore for WebStorm and Php
 
-    -   italian (AB)
+### Fixed
+- Changelog typo
 
--   views
+## [0.1] - 2018-01-24
+### Added
+- Forked https://github.com/jedi-academy/starter-gallery
 
-    -   slovenian (AB)
-    -   swedish
-
+### Changed
+- Updated changelog to follow keepachangelog conventions and added team members and roles
 
