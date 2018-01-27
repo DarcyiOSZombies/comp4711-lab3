@@ -7,7 +7,21 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - Captain - Gagan Bahugun
 - First Mate - Wei Zhang
 
-## [0.3] - 2017-01-25
+## [0.4] - 2018-01-26
+### Added
+- Images model
+- cell view
+
+### Changed
+- gitignore
+- autoload
+- gallery
+- welcome
+
+### Fixed
+- Changelog dates
+
+## [0.3] - 2018-01-25
 ### Added
 - template.php
 
@@ -15,7 +29,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 - Updated welcome.php, about.php, and gallery.php by removing everything except content
 - Updated Welcome.php controller
 
-## [0.2] - 2017-01-24
+## [0.2] - 2018-01-24
 ### Added
 - CI Trivial Components
 
@@ -25,7 +39,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 ### Fixed
 - Changelog typo
 
-## [0.1] - 2017-01-24
+## [0.1] - 2018-01-24
 ### Added
 - Forked https://github.com/jedi-academy/starter-gallery
 
